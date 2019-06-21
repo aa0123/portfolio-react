@@ -70,7 +70,8 @@ const SearchDetails = (props) => {
         : null 
         }
         </div>
-      </div>
+    </div>
     )
 };
+
 export default SearchDetails;
