@@ -12,7 +12,7 @@ class App extends Component {
 
       <div id="wrapper">
         <header id="header">
-			<div classNams="logo">
+			<div className="logo">
 				<span className="icon fa-gem"/>
 			</div>
 			<div className="content">
@@ -40,12 +40,12 @@ class App extends Component {
               <GitMango />	  
             </article>
 
-          </div>
-
-		<footer id="footer">
+			<footer id="footer">
 			<p className="copyright">&copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
 		</footer>
         </div>
+          </div>
+
 
     );
   }
